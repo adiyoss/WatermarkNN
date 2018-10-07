@@ -1,0 +1,10 @@
+Test results:
+Loss: 2.302 | Acc: 0.000% (0/100)
+Test results:
+Loss: 2.253 | Acc: 100.000% (100/100)
+Test results:
+Loss: 2.310 | Acc: 0.000% (0/100)
+Test results:
+Loss: 2.324 | Acc: 0.000% (0/100)
+Test results:
+Loss: 2.306 | Acc: 4.000% (4/100)
